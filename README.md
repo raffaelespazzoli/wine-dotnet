@@ -4,5 +4,5 @@
 
 ```shell
 docker build --rm -t quay.io/raffaelespazzoli/wine:latest -f wine.dockerfile
-docker build --rm -t quay.io/raffaelespazzoli/dotnet:5.0.100 -f dotnet.dockerfile
+docker build --rm -t quay.io/raffaelespazzoli/dotnet:4.8 -f dotnet.dockerfile
 ```
